@@ -16,7 +16,7 @@
 * DEVOS THIBAUT : 
 * DIABAT  MELVIN : https://github.com/melvindiabat/tp-tdd.git
 * DRAMÉ MARIAMA : 
-* DURAND  ADRIEN : 
+* DURAND  ADRIEN : https://github.com/Nyjaski/Adrien.git
 * FRANÇOIS  NELSON : 
 * GILLET  DYLAN : 
 * GILLET  LENAIC : https://github.com/LenaicG/TP-TDD-GIT.git
