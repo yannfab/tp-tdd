@@ -12,7 +12,7 @@
 * BEUNS VIANNEY : 
 * BORÉE CYPRIEN : https://github.com/CyprienBehague/MyRepository.git
 * CAPON THÉO : 
-* CHOUKHI SOFIAN : 
+* CHOUKHI SOFIAN : https://github.com/sofian-choukhi/TP-TDD.git
 * DEVOS THIBAUT : 
 * DIABAT  MELVIN : https://github.com/melvindiabat/tp-tdd.git
 * DRAMÉ MARIAMA : 
