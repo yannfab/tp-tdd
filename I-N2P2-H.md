@@ -26,7 +26,7 @@
 * MAERTEN MÉLISSA : 
 * MARLIOT THIBAULT : 
 * MILLOT  THOMAS : 
-* MUDRY QUENTIN : 
+* MUDRY QUENTIN : https://github.com/Quentin-Mudry/Chiffreromains.git
 * OURIZAT MAXENCE : https://github.com/MaxenceOurizat/Tdd.git
 * PLAISANCE BAPTISTE : https://github.com/titiss28/Plaisance-Baptiste.git
 * ROCA  VINCENT : 
