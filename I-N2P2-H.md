@@ -28,6 +28,6 @@
 * MILLOT  THOMAS : 
 * MUDRY QUENTIN : 
 * OURIZAT MAXENCE : 
-* PLAISANCE BAPTISTE : 
+* PLAISANCE BAPTISTE : https://github.com/titiss28/Plaisance-Baptiste.git
 * ROCA  VINCENT : 
 * VANRENTERGHEM ANTHONY : 
