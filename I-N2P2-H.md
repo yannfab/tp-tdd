@@ -23,7 +23,7 @@
 * LANTOINE  ALEXANDRE : 
 * LECOMTE ADRIEN : 
 * LIEGE ARTHUR : 
-* MAERTEN MÉLISSA : 
+* MAERTEN MÉLISSA : https://github.com/memaerten/Cours-TDD.git
 * MARLIOT THIBAULT : 
 * MILLOT  THOMAS : 
 * MUDRY QUENTIN : 
