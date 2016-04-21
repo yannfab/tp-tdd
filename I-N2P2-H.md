@@ -9,7 +9,7 @@
 ## Groupe 4
 * ALAER MALLAURY : 
 * BEHAGUE CYPRIEN : https://github.com/CyprienBehague/MyRepository.git
-* BEUNS VIANNEY : 
+* BEUNS VIANNEY : https://github.com/beuns-vianney/TDDTP.git
 * BORÉE CYPRIEN : 
 * CAPON THÉO : https://github.com/TheoCapon/TDD.git
 * CHOUKHI SOFIAN : https://github.com/sofian-choukhi/TP-TDD.git
