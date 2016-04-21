@@ -14,10 +14,10 @@
 * CAPON THÉO : 
 * CHOUKHI SOFIAN : 
 * DEVOS THIBAUT : 
-* DIABAT  MELVIN : 
+* DIABAT  MELVIN : https://github.com/melvindiabat/tp-tdd.git
 * DRAMÉ MARIAMA : 
 * DURAND  ADRIEN : 
-* FRANÇOIS  NELSON : https://github.com/Nahyto/tp-tdd-romannumerals.git
+* FRANÇOIS  NELSON : 
 * GILLET  DYLAN : 
 * GILLET  LENAIC : 
 * LANTOINE  ALEXANDRE : 
