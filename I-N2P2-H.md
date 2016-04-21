@@ -22,12 +22,12 @@
 * GILLET  LENAIC : https://github.com/LenaicG/TP-TDD-GIT.git
 * LANTOINE  ALEXANDRE : 
 * LECOMTE ADRIEN : 
-* LIEGE ARTHUR : 
-* MAERTEN MÉLISSA : https://github.com/memaerten/Cours-TDD.git
+* LIEGE ARTHUR : PAS LA MDR
+* MAERTEN MÉLISSA : 
 * MARLIOT THIBAULT : 
 * MILLOT  THOMAS : 
 * MUDRY QUENTIN : 
 * OURIZAT MAXENCE : https://github.com/MaxenceOurizat/Tdd.git
 * PLAISANCE BAPTISTE : https://github.com/titiss28/Plaisance-Baptiste.git
 * ROCA  VINCENT : 
-* VANRENTERGHEM ANTHONY : 
+* VANRENTERGHEM ANTHONY : https://github.com/Vanrenta/TP-TDD.git
