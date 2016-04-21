@@ -10,7 +10,7 @@
 * ALAER MALLAURY : 
 * BEHAGUE CYPRIEN : 
 * BEUNS VIANNEY : 
-* BORÉE CYPRIEN : 
+* BORÉE CYPRIEN : https://github.com/CyprienBehague/MyRepository.git
 * CAPON THÉO : 
 * CHOUKHI SOFIAN : 
 * DEVOS THIBAUT : 
