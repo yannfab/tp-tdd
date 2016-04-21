@@ -8,9 +8,9 @@
 ## Groupe 3
 ## Groupe 4
 * ALAER MALLAURY : 
-* BEHAGUE CYPRIEN : 
+* BEHAGUE CYPRIEN : https://github.com/CyprienBehague/MyRepository.git
 * BEUNS VIANNEY : 
-* BORÉE CYPRIEN : https://github.com/CyprienBehague/MyRepository.git
+* BORÉE CYPRIEN : 
 * CAPON THÉO : 
 * CHOUKHI SOFIAN : https://github.com/sofian-choukhi/TP-TDD.git
 * DEVOS THIBAUT : 
