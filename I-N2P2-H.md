@@ -15,7 +15,7 @@
 * GILLET  LENAIC : https://github.com/LenaicG/TP-TDD-GIT.git
 * LANTOINE  ALEXANDRE : https://github.com/AlexandrLtn/TDD-RomanNumerals.git
 * LECOMTE ADRIEN : 
-* LIEGE ARTHUR : PAS LA MDR
+* LIEGE ARTHUR : absent
 * MAERTEN MÉLISSA : https://github.com/memaerten/Cours-TDD.git
 * MARLIOT THIBAULT : https://github.com/ThibaultMarliot/TDD.git 
 * MILLOT  THOMAS : 
