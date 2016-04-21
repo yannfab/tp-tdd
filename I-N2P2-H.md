@@ -12,7 +12,7 @@
 * BEUNS VIANNEY : 
 * BORÉE CYPRIEN : 
 * CAPON THÉO : 
-* CHOUKHI SOFIAN : 
+* CHOUKHI SOFIAN : https://github.com/sofian-choukhi/TP-TDD.git
 * DEVOS THIBAUT : 
 * DIABAT  MELVIN : 
 * DRAMÉ MARIAMA : 
