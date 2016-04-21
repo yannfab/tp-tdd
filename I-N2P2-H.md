@@ -27,7 +27,7 @@
 * MARLIOT THIBAULT : 
 * MILLOT  THOMAS : 
 * MUDRY QUENTIN : 
-* OURIZAT MAXENCE : 
+* OURIZAT MAXENCE : https://github.com/MaxenceOurizat/Tdd.git
 * PLAISANCE BAPTISTE : https://github.com/titiss28/Plaisance-Baptiste.git
 * ROCA  VINCENT : 
 * VANRENTERGHEM ANTHONY : 
