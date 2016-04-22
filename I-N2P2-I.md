@@ -9,7 +9,7 @@
 * GUIOT	CLÉMENT :
 * HENNUYER	MARTIN :
 * JACQUET	CHLOÉ :
-* LAFFILÉ	HUGO :
+* LAFFILÉ	HUGO : https://github.com/LaffileHugo/RomanNumerals.git
 * LAMBOIS	ALEXIS :
 * LAUDE	REMI :
 * LENTINI	LORENZO :
