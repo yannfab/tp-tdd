@@ -3,7 +3,7 @@
 * Nom prénom : url
 * BLASZKOWSKI :
 * BRISSET	ADRIEN :
-* DEVASSINE	ALEXANDRE :
+* DEVASSINE	ALEXANDRE : https://github.com/devassia/TDD.git
 * GRANDJEAN	SYLVAIN :
 * GREMBER	MAXIME :
 * GUIOT	CLÉMENT :
