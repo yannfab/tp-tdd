@@ -7,7 +7,7 @@
 * GRANDJEAN	SYLVAIN :
 * GREMBER	MAXIME :
 * GUIOT	CLÉMENT :
-* HENNUYER	MARTIN :
+* HENNUYER	MARTIN : https://github.com/MartinHennuyer/TDD.git
 * JACQUET	CHLOÉ :
 * LAFFILÉ	HUGO : https://github.com/LaffileHugo/RomanNumerals.git
 * LAMBOIS	ALEXIS :
