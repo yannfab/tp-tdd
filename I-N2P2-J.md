@@ -9,7 +9,7 @@
 * GILMANT LUCAS :
 * GUERMONPREZ MAXIME  :
 * LASSALLE  RÉMI  :
-* LEGAY NICOLAS :
+* LEGAY NICOLAS : https://github.com/nlegay/RomanNumerals.git
 * LELONG  BENJAMIN  :
 * MAINGUET  THEO  :
 * MARTELLO  ARTHUR  :
