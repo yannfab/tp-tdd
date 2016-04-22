@@ -1,7 +1,7 @@
 # URLs des dépots gits
 
 * AMHAL KAMAL :
-* BEAUDOUL BROQUET  QUENTIN :
+* BEAUDOUL BROQUET  QUENTIN : https://github.com/EiKoZ/TDDQuentinB.git
 * BENOIST VINCENT : https://github.com/VincentBENOIST/TDD-N2P21.git
 * CARONI  CHRISTOPHER :
 * DELECAUT  MAÏTÉ :
