@@ -21,7 +21,7 @@
 * PLOUCHART THOMAS  :
 * PLOUVIN MARGOT  : https://github.com/Margot-plouvin/tp-tdd.git
 * PROCHNOW  FRÉDÉRIC  :
-* REINLING  ROBIN :
+* REINLING  ROBIN : https://github.com/Swits/TP-TDD.git
 * VANDERASPOILDEN RODOLPHE  :
 * VASSEUR SAMSON  :
 * VERQUIN CORENTIN  :
