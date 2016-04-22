@@ -5,7 +5,7 @@
 * BENOIST VINCENT : https://github.com/VincentBENOIST/TDD-N2P21.git
 * CARONI  CHRISTOPHER :
 * DELECAUT  MAÏTÉ :
-* DUQUESNE  ROMAIN  :
+* DUQUESNE  ROMAIN  : https://github.com/Romain-Duq/TDD.git
 * GILMANT LUCAS : https://github.com/Jigasai/tp-tdd.git
 * GUERMONPREZ MAXIME  :
 * LASSALLE  RÉMI  :
