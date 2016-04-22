@@ -4,7 +4,7 @@
 * BEAUDOUL BROQUET  QUENTIN : https://github.com/EiKoZ/TDDQuentinB.git
 * BENOIST VINCENT : https://github.com/VincentBENOIST/TDD-N2P21.git
 * CARONI  CHRISTOPHER : https://github.com/Christopher-Caroni/TP-TDD
-* DELECAUT  MAÏTÉ :
+* DELECAUT  MAÏTÉ : https://github.com/maitedelecaut/TDD.git
 * DUQUESNE  ROMAIN  : https://github.com/Romain-Duq/TDD.git
 * GILMANT LUCAS : https://github.com/Jigasai/tp-tdd.git
 * GUERMONPREZ MAXIME  :
