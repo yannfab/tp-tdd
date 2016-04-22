@@ -20,7 +20,7 @@
 * PIRLET  GAUTHIER  :
 * PLOUCHART THOMAS  :
 * PLOUVIN MARGOT  : https://github.com/Margot-plouvin/tp-tdd.git
-* PROCHNOW  FRÉDÉRIC  :
+* PROCHNOW  FRÉDÉRIC  : https://github.com/frederic-prochnow/TP-TDD.git
 * REINLING  ROBIN :
 * VANDERASPOILDEN RODOLPHE  :
 * VASSEUR SAMSON  :
