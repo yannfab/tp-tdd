@@ -2,7 +2,7 @@
 
 * Nom prénom : url
 * BLASZKOWSKI :
-* BRISSET	ADRIEN :
+* BRISSET	ADRIEN :https://github.com/Brisseta/TDD.git
 * DEVASSINE	ALEXANDRE : https://github.com/devassia/TDD.git
 * GRANDJEAN	SYLVAIN :
 * GREMBER	MAXIME :
