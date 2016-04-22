@@ -16,7 +16,7 @@
 * LESAGE	DYLAN :
 * MATHON	ANTHONY :
 * MEFTOUH	RIAD : https://github.com/MeftouhRiad/TDDGitRepository.git
-* MEULEMAN	REMI :
+* MEULEMAN	REMI : https://github.com/RemiMeuleman/ChiffreRomain.git
 * MOREAU	THOMAS :
 * PHILIPPART	JÉRÔME :
 * REGNIER	KÉVIN :
