@@ -2,7 +2,7 @@
 
 * AMHAL KAMAL :
 * BEAUDOUL BROQUET  QUENTIN :
-* BENOIST VINCENT :
+* BENOIST VINCENT : https://github.com/VincentBENOIST/TDD-N2P21.git
 * CARONI  CHRISTOPHER :
 * DELECAUT  MAÏTÉ :
 * DUQUESNE  ROMAIN  :
@@ -21,7 +21,7 @@
 * PLOUCHART THOMAS  :
 * PLOUVIN MARGOT  : https://github.com/Margot-plouvin/tp-tdd.git
 * PROCHNOW  FRÉDÉRIC  :
-* REINLING  ROBIN : https://github.com/Swits/TP-TDD.git
+* REINLING  ROBIN :
 * VANDERASPOILDEN RODOLPHE  :
 * VASSEUR SAMSON  :
 * VERQUIN CORENTIN  :
