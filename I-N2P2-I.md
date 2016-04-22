@@ -15,7 +15,7 @@
 * LENTINI	LORENZO :
 * LESAGE	DYLAN :
 * MATHON	ANTHONY :
-* MEFTOUH	RIAD :
+* MEFTOUH	RIAD : https://github.com/MeftouhRiad/TDDGitRepository.git
 * MEULEMAN	REMI :
 * MOREAU	THOMAS :
 * PHILIPPART	JÉRÔME :
