@@ -13,7 +13,7 @@
 * LAMBOIS	ALEXIS :
 * LAUDE	REMI :
 * LENTINI	LORENZO :
-* LESAGE	DYLAN :
+* LESAGE	DYLAN : https://github.com/husdylan/TDD.git
 * MATHON	ANTHONY :
 * MEFTOUH	RIAD : https://github.com/MeftouhRiad/TDDGitRepository.git
 * MEULEMAN	REMI : https://github.com/RemiMeuleman/ChiffreRomain.git
