@@ -13,7 +13,7 @@
 * LELONG  BENJAMIN  :
 * MAINGUET  THEO  : https://github.com/theo-mainguet/tp-tdd.git
 * MARTELLO  ARTHUR  : https://github.com/ArthurMartello/TDD-N2P2.git
-* MASSIAUX  ALEXIS  :
+* MASSIAUX  ALEXIS  : https://github.com/Alexis-Massiaux/TDD.git
 * MÉZIÈRES  VANESSA : https://github.com/VanessaMe/chiffresromains.git
 * PAUL  KILIAN  :https://github.com/kilianpaul/tdd
 * PELLERIN  ALEXANDRE :
