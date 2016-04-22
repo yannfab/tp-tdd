@@ -6,7 +6,7 @@
 * CARONI  CHRISTOPHER :
 * DELECAUT  MAÏTÉ :
 * DUQUESNE  ROMAIN  :
-* GILMANT LUCAS :
+* GILMANT LUCAS : https://github.com/Jigasai/tp-tdd.git
 * GUERMONPREZ MAXIME  :
 * LASSALLE  RÉMI  :
 * LEGAY NICOLAS : https://github.com/nlegay/RomanNumerals.git
