@@ -10,7 +10,7 @@
 * HENNUYER	MARTIN : https://github.com/MartinHennuyer/TDD.git
 * JACQUET	CHLOÉ :
 * LAFFILÉ	HUGO : https://github.com/LaffileHugo/RomanNumerals.git
-* LAMBOIS	ALEXIS :
+* LAMBOIS	ALEXIS : https://github.com/AlexisLambois/Tdd.git
 * LAUDE	REMI :
 * LENTINI	LORENZO :
 * LESAGE	DYLAN : https://github.com/husdylan/TDD.git
