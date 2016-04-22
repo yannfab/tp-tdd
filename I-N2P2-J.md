@@ -23,5 +23,5 @@
 * PROCHNOW  FRÉDÉRIC  : https://github.com/frederic-prochnow/TP-TDD.git
 * REINLING  ROBIN :
 * VANDERASPOILDEN RODOLPHE  :
-* VASSEUR SAMSON  :
+* VASSEUR SAMSON  : https://github.com/NeroKyusi/TDD-TP.git
 * VERQUIN CORENTIN  : https://github.com/corentin-verquin/TDD
