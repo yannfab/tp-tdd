@@ -20,6 +20,6 @@
 * MOREAU	THOMAS :
 * PHILIPPART	JÉRÔME :
 * REGNIER	KÉVIN :
-* SLOWINSKI	DYLAN :
+* SLOWINSKI	DYLAN : https://github.com/slowinsd/TDD.git
 * VANHECKE	JULIEN :
 * VANTOURS	FRANÇOIS : https://github.com/noex59/TDD.git
