@@ -5,6 +5,7 @@
 * LEMAITRE  LUG 
 * PROVO FLORIAN 
 * SPELEERS  VALENTIN 
+* BATAILLE  JACQUES : 
 
 git : https://github.com/Daikimi/TP-TDD-Groupe-1.git
 
@@ -37,7 +38,7 @@ git : https://github.com/vitsem/tdd
 * VANDEPUTTE  SIMON : 
 
 
-* BATAILLE  JACQUES : 
+
 * BELKADI RAYANE : 
 * BOURDIER  CLÉMENT : 
 * HOLQUIN BENJAMIN : 
