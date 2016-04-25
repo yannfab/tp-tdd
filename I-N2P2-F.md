@@ -6,7 +6,7 @@
 * PROVO FLORIAN 
 * SPELEERS  VALENTIN 
 
-##Groupe 2:
+##<a href="https://github.com/ptitguigui/tdd.git"> Groupe 2 </a>
 * LEPRETRE  GUILLAUME : 
 * COLLOT  LOUIS-ARTHUR : 
 * DIEU  EMELINE : 
