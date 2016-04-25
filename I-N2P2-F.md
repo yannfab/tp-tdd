@@ -17,8 +17,9 @@
 ## Groupe 3
 * RUCART  TIMOTHE :
 * FABLET  YANN : 
-*  JANZEGERS AXEL : 
+* JANZEGERS AXEL : 
 * DEGUINES  ARTHUR :
+* 
 
 
 
