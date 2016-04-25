@@ -6,23 +6,15 @@
 * PROVO FLORIAN 
 * SPELEERS  VALENTIN 
 
+git : https://github.com/Daikimi/TP-TDD-Groupe-1.git
+
 ##<a href="https://github.com/ptitguigui/tdd.git"> Groupe 2 </a>
 * LEPRETRE  GUILLAUME : 
 * COLLOT  LOUIS-ARTHUR : 
 * DIEU  EMELINE : 
 * DE MORAES NICOLAS :  
-* 
 
-
-## Groupe 3
-* RUCART  TIMOTHE :
-* FABLET  YANN : 
-* JANZEGERS AXEL : 
-* DEGUINES  ARTHUR :
-* 
-
-
-
+git : https://github.com/ptitguigui/tdd.git
 
 ##Groupe 3:
 * DEGUINES  ARTHUR : 
@@ -34,6 +26,8 @@
 * SERIZEL GABRIELLE : 
 * TARTARE VALENTIN :
 * VITSE MARIE : 
+
+git : https://github.com/vitsem/tdd
 
 ## Groupe 5 : 
 * AIT ELHAJ AZZEDINE : 
