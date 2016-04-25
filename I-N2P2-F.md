@@ -21,6 +21,8 @@ git : https://github.com/ptitguigui/tdd.git
 * FABLET  YANN : 
 * RUCART  TIMOTHE : 
 * JANZEGERS AXEL : 
+* 
+git : https://github.com/yannfab/tdd.git
 
 ## <a href="https://github.com/vitsem/tdd">Groupe 4</a>
 * SERIZEL GABRIELLE : 
