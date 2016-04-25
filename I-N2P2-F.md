@@ -11,6 +11,17 @@
 * COLLOT  LOUIS-ARTHUR : 
 * DIEU  EMELINE : 
 * DE MORAES NICOLAS :  
+* 
+
+
+## Groupe 3
+* RUCART  TIMOTHE :
+* FABLET  YANN : 
+* JANZEGERS AXEL : 
+* DEGUINES  ARTHUR :
+* 
+
+
 
 
 ##Groupe 3:
